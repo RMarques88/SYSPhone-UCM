@@ -243,8 +243,3 @@ const filters = {
 - **Backup automático** recomendado para dados críticos
 
 ---
-
-**Desenvolvido por**: Raul M. M. Nascimento  
-**Licença**: MIT  
-**Versão**: 1.0.0
-
